@@ -8,9 +8,9 @@ questions = {
     "user_response": None,
   },
   2: {
-    "question": "Which of the following is not a logical data structure?\n(a) Chain\n(b) Tree\n(c) Stack\n(d) List\n",
-    "answer": "a",
-    "more_info": "https://en.wikipedia.org/wiki/Logical_schema",
+    "question": "Which of the following is not a fixed asset?\n(a) Furniture\n(b) Real Estate\n(c) Cash\n(d) Antiques\n",
+    "answer": "c",
+    "more_info": "https://www.allbusiness.com/fixed-v-liquid-assets-3878757-1.html",
     "user_response": None,
   },
   3: {
